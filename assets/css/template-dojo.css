@@ -1,0 +1,161 @@
+/*Header Master*/
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+/* set global font to Open Sans */
+body {
+    font-family: 'Open Sans', 'sans-serif';
+
+}
+
+
+/*navbar*/
+.navbar-dojo{
+    background-color: #ffffff;
+}
+
+.search-position-dojo{
+    margin-top:32px;
+}
+/*-- Border / Padding Master / backgournd*/
+.border-master{border:01px solid red;}
+
+.padding-master{padding: 05px;}
+.bread1{background-color:#6FC6FF;}
+.bread2{background-color:#15B358;}
+
+.backgorund-master{background-color: #cccccc; padding: 20px;}
+
+/*-- ---*/
+.navbar-position-dojo{
+    margin-top: 25px;
+}
+/* border-header-dojo*/
+.border-header-dojo{border-top:01px solid #f5f5f5; border-bottom:01px solid #f5f5f5;}
+/* Background Sidebar*/
+.sidebar-back-dojo{background-color: #e2e2e2;}
+
+
+/* Img Content Master*/
+.img-content-master{width: 140px; height:140px;}
+/*Avatar size*/
+.img-avatar-dojo{width: 250px; padding: 15px; border:0px solid red;}
+.img-avatar-dojo-2{width: 150px; padding: 15px; border:0px solid red;}
+
+
+
+/*logo*/
+.img-logo-dojo{width: 200px; padding: 15px; border:0px solid red;}
+
+
+/*ebook*/
+.img-ebook-dojo{width: 250px; border:0px solid red;}
+
+/*toggle icon*/
+
+.toggle-color-dojo{
+    background-color:#080808;
+}
+.icon-bar-color-dojo{
+    background-color: #ffffff;
+}
+
+/************* CSS3 BUTTON ***********/
+/*
+*************************************
+          Copyright 2014
+             benague
+*************************************
+*/
+
+/* start da css for da buttons */
+.btn-dojo{
+    border-radius: 5px;
+    padding: 25px 05px;
+    font-size: 22px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.btn-dojo:active {
+    transform: translate(0px, 5px);
+    -webkit-transform: translate(0px, 5px);
+    box-shadow: 0px 1px 0px 0px;
+}
+
+.blue {
+    width: 100%;
+    background-color: #55acee;
+    box-shadow: 0px 5px 0px 0px #3C93D5;
+}
+
+.blue:hover {
+    background-color: #6FC6FF;
+    text-decoration: none;
+    color:#fff;
+}
+
+.green {
+    width: 100%;
+    background-color: #2ecc71;
+    box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.green:hover {
+
+    background-color: #48E68B;
+    text-decoration: none;
+    color:#fff;
+}
+
+.red {
+    width: 100%;
+    background-color: #e74c3c;
+    box-shadow: 0px 5px 0px 0px #CE3323;
+}
+
+.red:hover {
+    background-color: #FF6656;
+    text-decoration: none;
+    color:#fff;
+}
+
+.purple {
+    width: 100%;
+    background-color: #9b59b6;
+    box-shadow: 0px 5px 0px 0px #82409D;
+}
+
+.purple:hover {
+    background-color: #B573D0;
+    text-decoration: none;
+    color:#fff;
+}
+
+.orange {
+    width: 100%;
+    background-color: #e67e22;
+    box-shadow: 0px 5px 0px 0px #CD6509;
+}
+
+.orange:hover {
+    background-color: #FF983C;
+    text-decoration: none;
+    color:#fff;
+}
+
+.yellow {
+    width: 100%;
+    background-color: #f1c40f;
+    box-shadow: 0px 5px 0px 0px #D8AB00;
+}
+
+.yellow:hover {
+    background-color: #FFDE29;
+    text-decoration: none;
+    color:#fff;
+}
